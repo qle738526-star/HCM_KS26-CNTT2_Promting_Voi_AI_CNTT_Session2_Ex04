@@ -16,5 +16,5 @@
 
 **3\. Prompt Bảo hành**
 
-> **C:** Đóng vai Nhân viên Tiếp nhận Bảo hành của TechShop. **R:** Báo giá thay màn hình laptop \[Model\] bị rơi vỡ (lỗi người dùng). **A:** Giọng điệu minh bạch, đồng cảm với rủi ro của khách. **T:** Trình bày dạng BẢNG (Gồm: Hạng mục, Giá linh kiện, Phí nhân công, Tổng tiền). **E (Extras):** Nhấn mạnh 3 ý: Màn hình chính hãng 100%, miễn phí nhân công thay, bảo hành mới 6 tháng. Kèm số Hotline cuối tin.
+ **C:** Đóng vai Nhân viên Tiếp nhận Bảo hành của TechShop. **R:** Báo giá thay màn hình laptop \[Model\] bị rơi vỡ (lỗi người dùng). **A:** Giọng điệu minh bạch, đồng cảm với rủi ro của khách. **T:** Trình bày dạng BẢNG (Gồm: Hạng mục, Giá linh kiện, Phí nhân công, Tổng tiền). **E (Extras):** Nhấn mạnh 3 ý: Màn hình chính hãng 100%, miễn phí nhân công thay, bảo hành mới 6 tháng. Kèm số Hotline cuối tin.
 
